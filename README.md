@@ -91,3 +91,6 @@ Recorded a gif highlighting the website functionality and inserted it into the R
 ## Licence
 
 * [MIT Licence](https://opensource.org/licenses/mit-license.php)
+
+To visit the site click this [link](https://postits.netlify.app/).
+Here is the url for our API `https://postits-site.herokuapp.com/posts`.
